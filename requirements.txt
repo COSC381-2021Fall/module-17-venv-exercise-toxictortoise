@@ -1,0 +1,5 @@
+emoji==1.6.1
+jellyfish==0.8.9
+pyjokes==0.6.0
+regex==2021.11.2
+spookify==0.3.2.post1

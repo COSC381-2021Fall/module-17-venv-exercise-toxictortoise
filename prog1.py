@@ -1,6 +1,6 @@
 import emoji
 import spookify
-import pyjoke
+import pyjokes
 import subprocess
 
 def joke():
